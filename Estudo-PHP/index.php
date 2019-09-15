@@ -2,6 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
+        <meta name="author" content="Gabriel Teixeira">
         <title>Estudo em PHP</title>
         <link rel="stylesheet" type="text/css" href="recursos/css/estilo.css">
         <link href="https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700&display=swap" rel="stylesheet"> 
