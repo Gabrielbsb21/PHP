@@ -21,12 +21,14 @@
                     <div class="modulo verde">
                         <h3>Módulo 01 - Básico</h3>
                         <ul>
-                            <li><a href="exercicio.php?dir=teste&file=teste" target="_blank">Exercício A</a></li>
-                            <li><a href="#">Exercício B</a></li>
-                            <li><a href="#">Exercício C</a></li>
+                            <li><a href="exercicio.php?dir=basico&file=ola" target="_blank">Olá PHP</a></li>
+                            <li><a href="exercicio.php?dir=basico&file=html" target="_blank">Integração HTML</a></li>
+                            <li><a href="exercicio.php?dir=basico&file=css" target="_blank">Integração CSS</a></li>
+                            <li><a href="exercicio.php?dir=basico&file=comentarios" target="_blank">Comentários PHP</a></li>
+                            <li><a href="exercicio.php?dir=basico&file=desafio" target="_blank">Desafio</a></li>
                         </ul>
                     </div>
-
+                    <!--
                     <div class="modulo vermelho">
                         <h3>Módulo 02</h3>
                         <ul>
@@ -35,7 +37,7 @@
                             <li><a href="#">Exercício C</a></li>
                         </ul>
                     </div>
-
+                    
                     <div class="modulo azul">
                         <h3>Módulo 03</h3>
                         <ul>
@@ -100,6 +102,8 @@
                     </div>
                 </nav>
             </div>
+                    -->
+            
             
         </main>
         <footer class="rodape">
