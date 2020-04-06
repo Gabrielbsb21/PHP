@@ -1,5 +1,5 @@
-# PHP_Estudo
-Repositório de estudo da linguagem php.
+# Linguagem PHP
+
+Esse repositório é destinado para projetos que estou desenvolvendo na linguagem __PHP__.
 
 
-O aprendizado vai contar com um template que estou desenvolvendo, para ficar mais fácil o estudo.
