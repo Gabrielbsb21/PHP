@@ -19,7 +19,7 @@
                 <nav class="modulos">
 
                     <div class="modulo verde">
-                        <h3>Módulo 01 - Básico</h3>
+                        <h3>Básico</h3>
                         <ul>
                             <li><a href="exercicio.php?dir=basico&file=ola" target="_blank">Olá PHP</a></li>
                             <li><a href="exercicio.php?dir=basico&file=html" target="_blank">Integração HTML</a></li>
@@ -28,16 +28,18 @@
                             <li><a href="exercicio.php?dir=basico&file=desafio" target="_blank">Desafio</a></li>
                         </ul>
                     </div>
-                    <!--
+                    
                     <div class="modulo vermelho">
-                        <h3>Módulo 02</h3>
+                        <h3>Tipos</h3>
                         <ul>
-                            <li><a href="#">Exercício A</a></li>
-                            <li><a href="#">Exercício B</a></li>
-                            <li><a href="#">Exercício C</a></li>
+                            <li><a href="exercicio.php?dir=tipos&file=int" target="_blank">Tipo Inteiro</a></li>
+                            <li><a href="exercicio.php?dir=tipos&file=float" target="_blank">Tipo Float</a></li>
+                            <li><a href="exercicio.php?dir=tipos&file=aritmeticas" target="_blank">Operações Aritméticas</a></li>
+                            <li><a href="exercicio.php?dir=tipos&file=desafio_precedencia" target="_blank">Desafio Precedência</a></li>
                         </ul>
                     </div>
-                    
+
+                    <!--
                     <div class="modulo azul">
                         <h3>Módulo 03</h3>
                         <ul>
