@@ -1,10 +1,11 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-brga">
     <head>
         <meta charset="UTF-8">
         <meta name="desciption" content="Template para Estudo da Linguagem PHP">
         <meta name="author" content="Gabriel Teixeira">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel=" shortcut icon" href="https://www.php.net/images/logos/new-php-logo.svg" type="image/svg" sizes="32x32">
         <link href="https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700&display=swap" rel="stylesheet">
         <link rel="stylesheet" type="text/css" href="assets/css/estilo.css">
         <link rel="stylesheet" type="text/css" href="assets/css/exercicio.css">

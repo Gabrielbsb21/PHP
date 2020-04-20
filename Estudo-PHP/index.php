@@ -1,10 +1,11 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-br">
     <head>
         <meta charset="UTF-8">
         <meta name="desciption" content="Template para Estudo da Linguagem PHP">
         <meta name="author" content="Gabriel Teixeira">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel=" shortcut icon" href="https://www.php.net/images/logos/new-php-logo.svg" type="image/svg" sizes="32x32">
         <link href="https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700&display=swap" rel="stylesheet">
         <link rel="stylesheet" type="text/css" href="assets/css/estilo.css">
         <title>Estudo PHP</title>
@@ -36,6 +37,10 @@
                             <li><a href="exercicio.php?dir=tipos&file=float" target="_blank">Tipo Float</a></li>
                             <li><a href="exercicio.php?dir=tipos&file=aritmeticas" target="_blank">Operações Aritméticas</a></li>
                             <li><a href="exercicio.php?dir=tipos&file=desafio_precedencia" target="_blank">Desafio Precedência</a></li>
+                            <li><a href="exercicio.php?dir=tipos&file=string" target="_blank"> Tipo String</a></li>
+                            <li><a href="exercicio.php?dir=tipos&file=desafio_string" target="_blank"> Desafio String</a></li>
+                            <li><a href="exercicio.php?dir=tipos&file=booleano" target="_blank"> Tipo Booleano</a></li>
+                            <li><a href="exercicio.php?dir=tipos&file=conversoes" target="_blank"> Conversões</a></li>
                         </ul>
                     </div>
 
