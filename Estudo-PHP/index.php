@@ -44,16 +44,16 @@
                         </ul>
                     </div>
 
-                    <!--
+                    
                     <div class="modulo azul">
-                        <h3>Módulo 03</h3>
+                        <h3>Variáveis</h3>
                         <ul>
-                            <li><a href="#">Exercício A</a></li>
-                            <li><a href="#">Exercício B</a></li>
-                            <li><a href="#">Exercício C</a></li>
+                            <li><a href="exercicio.php?dir=variaveis&file=basico" target="_blank">Variáveis</a></li>
+                            <li><a href="exercicio.php?dir=variaveis&file=desafio_equacao" target="_blank">Desafio Equação</a></li>
+                    
                         </ul>
                     </div>
-
+                    <!--
                     <div class="modulo roxo">
                         <h3>Módulo 04</h3>
                         <ul>
@@ -62,7 +62,7 @@
                             <li><a href="#">Exercício C</a></li>
                         </ul>
                     </div>
-
+                    
                     <div class="modulo laranja">
                         <h3>Módulo 05</h3>
                         <ul>

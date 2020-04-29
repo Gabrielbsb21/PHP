@@ -115,6 +115,7 @@ body{
 .modulo.vermelho > h3 {background-color: #F44336;}
 
 .modulo.azul {border: 2px solid #2196F3;}
+.modulo.azul {height: 100%;}
 .modulo.azul > h3 {background-color: #2196F3;}
 
 .modulo.roxo {border: 2px solid #9C27B0 ;}
