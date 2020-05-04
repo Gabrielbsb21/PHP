@@ -50,6 +50,12 @@
                         <ul>
                             <li><a href="exercicio.php?dir=variaveis&file=basico" target="_blank">Variáveis</a></li>
                             <li><a href="exercicio.php?dir=variaveis&file=desafio_equacao" target="_blank">Desafio Equação</a></li>
+                            <li><a href="exercicio.php?dir=variaveis&file=atribuicoes" target="_blank">Atribuições</a></li>
+                            <li><a href="exercicio.php?dir=variaveis&file=interpolacao" target="_blank">Interpolação</a></li>
+                            <li><a href="exercicio.php?dir=variaveis&file=variaveis_variaveis" target="_blank">Variáveis Variáveis</a></li>
+                            <li><a href="exercicio.php?dir=variaveis&file=desafio_variaveis" target="_blank">Desafio Variáveis</a></li>
+                            <li><a href="exercicio.php?dir=variaveis&file=valor_referencia" target="_blank">Valor vs Referência</a></li>
+                            <li><a href="exercicio.php?dir=variaveis&file=constantes" target="_blank">Constantes</a></li>
                     
                         </ul>
                     </div>
