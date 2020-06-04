@@ -59,16 +59,16 @@
                     
                         </ul>
                     </div>
-                    <!--
+                    
                     <div class="modulo roxo">
-                        <h3>Módulo 04</h3>
+                        <h3>Controle</h3>
                         <ul>
-                            <li><a href="#">Exercício A</a></li>
-                            <li><a href="#">Exercício B</a></li>
-                            <li><a href="#">Exercício C</a></li>
+                            <li><a href="exercicio.php?dir=controle&file=if_else" target="_blank">If Else</a></li>
+                            <li><a href="exercicio.php?dir=controle&file=operadores_relacionais" target="_blank">Operadores Relacionais</a></li>
+                            <li><a href="exercicio.php?dir=controle&file=desafio_pi" target="_blank">Desafio PI</a></li>
                         </ul>
                     </div>
-                    
+                    <!--
                     <div class="modulo laranja">
                         <h3>Módulo 05</h3>
                         <ul>
