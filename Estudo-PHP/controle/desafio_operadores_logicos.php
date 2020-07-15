@@ -41,17 +41,20 @@
 
 
 <?php
-$trabalho_1 =  $_POST['t1'];
-$trabalho_1 = intval($trabalho_1);
-$trabalho_2 = $_POST['t2'];
-$trabalho_2 = intval($trabalho_2);
+if(isset($_POST['t1']) && isset($_POST['t2'])) {
+    $trabalho_1 =  $_POST['t1'];
+    $trabalho_1 = intval($trabalho_1);
+    $trabalho_2 = $_POST['t2'];
+    $trabalho_2 = intval($trabalho_2);
 
-if($trabalho_1 === 1 and $trabalho_2 === 1) {
-    echo 'Vai comprar tv 50 e tomar sorvete' . '<br>';
-} else if ($trabalho_1 === 1 || $trabalho_2 === 1) {
-    echo 'Vai comprar tv 32 e tomar sorvete' . '<br>';
-} else if($trabalho_1 === 0 and $trabalho_2 === 0 ) {
-    echo 'Fica em casa que é mais saudável!';
+    if($trabalho_1 === 1 and $trabalho_2 === 1) {
+        echo '<p>Vai comprar tv 50 e tomar sorvete</p>';
+    } else if ($trabalho_1 === 1 || $trabalho_2 === 1) {
+        echo '<p>Vai comprar tv 32 e tomar sorvete </p>';
+    } else if($trabalho_1 === 0 and $trabalho_2 === 0 ) {
+        echo '<p>Fica em casa que é mais saudável e não vai ter tv</p>';
+    }
 }
+
 
 ?>

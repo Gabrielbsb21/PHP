@@ -68,6 +68,9 @@
                             <li><a href="exercicio.php?dir=controle&file=desafio_pi" target="_blank">Desafio PI</a></li>
                             <li><a href="exercicio.php?dir=controle&file=operadores_logicos" target="_blank">Operadores Lógicos</a></li>
                             <li><a href="exercicio.php?dir=controle&file=desafio_operadores_logicos" target="_blank">Desafio Operadores Lógicos</a></li>
+                            <li><a href="exercicio.php?dir=controle&file=operador_ternario" target="_blank">Operador Ternário</a></li>
+                            <li><a href="exercicio.php?dir=controle&file=switch" target="_blank">Switch</a></li>
+                            <li><a href="exercicio.php?dir=controle&file=desafio_switch" target="_blank">Desafio Switch</a></li>
                         </ul>
                     </div>
                     <!--
