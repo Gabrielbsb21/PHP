@@ -22,11 +22,11 @@
                     <div class="modulo verde">
                         <h3>Básico</h3>
                         <ul>
-                            <li><a href="exercicio.php?dir=basico&file=ola" target="_blank">Olá PHP</a></li>
-                            <li><a href="exercicio.php?dir=basico&file=html" target="_blank">Integração HTML</a></li>
-                            <li><a href="exercicio.php?dir=basico&file=css" target="_blank">Integração CSS</a></li>
-                            <li><a href="exercicio.php?dir=basico&file=comentarios" target="_blank">Comentários PHP</a></li>
-                            <li><a href="exercicio.php?dir=basico&file=desafio" target="_blank">Desafio</a></li>
+                            <li><a href="exercicio.php?dir=basico&file=ola" target="_blank" title="Ola PHP">Olá PHP</a></li>
+                            <li><a href="exercicio.php?dir=basico&file=html" target="_blank" title="Integracao HTML">Integração HTML</a></li>
+                            <li><a href="exercicio.php?dir=basico&file=css" target="_blank" title="Integracao CSS">Integração CSS</a></li>
+                            <li><a href="exercicio.php?dir=basico&file=comentarios" target="_blank" title="Comentarios PHP">Comentários PHP</a></li>
+                            <li><a href="exercicio.php?dir=basico&file=desafio" target="_blank" title="Desafio">Desafio</a></li>
                         </ul>
                     </div>
                     
