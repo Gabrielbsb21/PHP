@@ -1,5 +1,5 @@
-# Linguagem PHP
+# PHP
 
-Esse repositório é destinado para projetos que estou desenvolvendo na linguagem __PHP__.
+Esse repositório é destinado para o template de estudo que criei para a Linguagem __PHP__.
 
 
