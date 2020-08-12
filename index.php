@@ -13,14 +13,14 @@
     <body>
         <header class="cabecalho">
             <h1>Estudo PHP</h1>
-            <H2>Índice dos Exercícios</H2>
+            <h2>Índice dos Exercícios</h2>
         </header>
         <main class="principal">
             <div class="conteudo">
                 <nav class="modulos">
 
                     <div class="modulo verde">
-                        <h3>Básico</h3>
+                        <h3>1. Básico</h3>
                         <ul>
                             <li><a href="exercicio.php?dir=basico&file=ola" target="_blank" title="Ola PHP">Olá PHP</a></li>
                             <li><a href="exercicio.php?dir=basico&file=html" target="_blank" title="Integracao HTML">Integração HTML</a></li>
@@ -31,7 +31,7 @@
                     </div>
                     
                     <div class="modulo vermelho">
-                        <h3>Tipos</h3>
+                        <h3>2. Tipos</h3>
                         <ul>
                             <li><a href="exercicio.php?dir=tipos&file=int" target="_blank">Tipo Inteiro</a></li>
                             <li><a href="exercicio.php?dir=tipos&file=float" target="_blank">Tipo Float</a></li>
@@ -46,7 +46,7 @@
 
                     
                     <div class="modulo azul">
-                        <h3>Variáveis</h3>
+                        <h3>3. Variáveis</h3>
                         <ul>
                             <li><a href="exercicio.php?dir=variaveis&file=basico" target="_blank">Variáveis</a></li>
                             <li><a href="exercicio.php?dir=variaveis&file=desafio_equacao" target="_blank">Desafio Equação</a></li>
@@ -61,7 +61,7 @@
                     </div>
                     
                     <div class="modulo roxo">
-                        <h3>Controle</h3>
+                        <h3>4. Controle</h3>
                         <ul>
                             <li><a href="exercicio.php?dir=controle&file=if_else" target="_blank">If Else</a></li>
                             <li><a href="exercicio.php?dir=controle&file=operadores_relacionais" target="_blank">Operadores Relacionais</a></li>
@@ -73,16 +73,22 @@
                             <li><a href="exercicio.php?dir=controle&file=desafio_switch" target="_blank">Desafio Switch</a></li>
                         </ul>
                     </div>
-                    <!--
+                    
                     <div class="modulo laranja">
-                        <h3>Módulo 05</h3>
+                        <h3>5. Arrays</h3>
                         <ul>
-                            <li><a href="#">Exercício A</a></li>
-                            <li><a href="#">Exercício B</a></li>
-                            <li><a href="#">Exercício C</a></li>
+                        <li><a href="exercicio.php?dir=array&file=basico" target="_blank">Básico</a></li>
+                        <li><a href="exercicio.php?dir=array&file=mapa" target="_blank">Mapa</a></li>
+                        <li><a href="exercicio.php?dir=array&file=desafio_meses" target="_blank">Desafio Meses</a></li>
+                        <li><a href="exercicio.php?dir=array&file=operacoes" target="_blank">Operações</a></li>
+                        <li><a href="exercicio.php?dir=array&file=desafio_sorteio" target="_blank">Desafio Sorteio</a></li>
+                        <li><a href="exercicio.php?dir=array&file=multi" target="_blank">Multidimensionais</a></li>
+                        <li><a href="exercicio.php?dir=array&file=constantes" target="_blank">Arrays Constantes</a></li>
+                        <li><a href="exercicio.php?dir=array&file=get" target="_blank">Get</a></li>
+                        <li><a href="exercicio.php?dir=array&file=post" target="_blank">Post</a></li>
                         </ul>
                     </div>
-
+                    <!--
                     <div class="modulo verde-escuro">
                         <h3>Módulo 06</h3>
                         <ul>

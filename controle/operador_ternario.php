@@ -3,7 +3,6 @@
 <?php
 $idade = 70;
 $status;
-#$teste;
 
 if($idade >= 18) {
     $status = 'Maior de idade';
