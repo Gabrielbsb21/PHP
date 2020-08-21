@@ -4,7 +4,7 @@
 $categoria = 'SUV';
 $preco = 0.0;
 $carro = '';
-
+// Exemplo com if
 if($categoria === 'luxo') {
     $carro = 'Mercedes';
     $preco = 250000;
@@ -21,6 +21,8 @@ if($categoria === 'luxo') {
 
 $precoFormatado = number_format($preco, 2, ',', '.');
 echo "<p>Carro: $carro<br>Preço: R$ $precoFormatado</p>";
+
+// Exemplo com Switch
 
 $categoria = '???';
 switch($categoria) {
