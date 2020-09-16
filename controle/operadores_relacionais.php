@@ -13,6 +13,7 @@ var_dump(111 == '111');
 var_dump(111 === '111');
 var_dump(111 != '111');
 var_dump(111 !== '111');
+var_dump(1111 !== '1111');
 
 echo "<h4>Relacionais nos operadores If/Else</h4><hr>";
 
