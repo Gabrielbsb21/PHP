@@ -12,7 +12,7 @@
     </head>
     <body>
         <header class="cabecalho">
-            <h1>Estudo PHP</h1>
+            <h1>Template de Estudo para a Linguagem PHP</h1>
             <h2>Índice dos Exercícios</h2>
         </header>
         <main class="principal">
@@ -88,16 +88,14 @@
                         <li><a href="exercicio.php?dir=array&file=post" target="_blank">Post</a></li>
                         </ul>
                     </div>
-                    <!--
+                   
                     <div class="modulo verde-escuro">
-                        <h3>Módulo 06</h3>
+                        <h3>6. Repetições </h3>
                         <ul>
-                            <li><a href="#">Exercício A</a></li>
-                            <li><a href="#">Exercício B</a></li>
-                            <li><a href="#">Exercício C</a></li>
+                            <li><a href="exercicio.php?dir=repeticoes&file=for" target="_blank">Laço For</a></li>
                         </ul>
                     </div>
-
+                     <!--
                     <div class="modulo vermelho-escuro">
                         <h3>Módulo 07</h3>
                         <ul>
