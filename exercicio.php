@@ -19,7 +19,7 @@
         <nav class="navegacao">
             <a href=<?= "{$_GET['dir']}/{$_GET['file']}.php" ?> class="verde">Sem formatação</a>
             <a href="index.php" class="vermelho">Voltar</a>
-            <a href="https://www.php.net/manual/pt_BR/intro-whatis.php" target="_blank" class="roxo">Documentação PHP</a>
+            <a href="https://www.php.net/manual/pt_BR/" target="_blank" class="roxo">Documentação PHP</a>
         </nav>
         <main class="principal">
             <div class="conteudo">

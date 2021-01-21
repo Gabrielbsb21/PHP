@@ -93,18 +93,19 @@
                         <h3>6. Repetições </h3>
                         <ul>
                             <li><a href="exercicio.php?dir=repeticoes&file=for" target="_blank">Laço For</a></li>
+                            <li><a href="exercicio.php?dir=repeticoes&file=foreach" target="_blank">Foreach</a></li>
+                            <li><a href="exercicio.php?dir=repeticoes&file=do_while" target="_blank">Do While</a></li>
+                            <li><a href="exercicio.php?dir=repeticoes&file=desafio_tabela" target="_blank">Desafio Tabela</a></li>
                         </ul>
                     </div>
-                     <!--
+                     
                     <div class="modulo vermelho-escuro">
-                        <h3>Módulo 07</h3>
+                        <h3>7. Funções</h3>
                         <ul>
-                            <li><a href="#">Exercício A</a></li>
-                            <li><a href="#">Exercício B</a></li>
-                            <li><a href="#">Exercício C</a></li>
+                            <li><a href="exercicio.php?dir=funcoes&file=escopo" target="_blank">Função & Escopo</a></li>
                         </ul>
                     </div>
-
+                    <!--
                     <div class="modulo azul-escuro">
                         <h3>Módulo 08</h3>
                         <ul>
@@ -131,5 +132,6 @@
         <footer class="rodape">
             Estudo PHP © <?= date('Y');?>
         </footer>
+        <script src="assets/js/script.js"></script>
     </body>
 </html>

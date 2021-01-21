@@ -1,0 +1,1 @@
+console.log('iremos implementar JS no nosso template php');
