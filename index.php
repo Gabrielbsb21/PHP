@@ -103,6 +103,13 @@
                         <h3>7. Funções</h3>
                         <ul>
                             <li><a href="exercicio.php?dir=funcoes&file=escopo" target="_blank">Função & Escopo</a></li>
+                            <li><a href="exercicio.php?dir=funcoes&file=retorno" target="_blank">Função & Seus retornos</a></li>
+                            <li><a href="exercicio.php?dir=funcoes&file=desafio" target="_blank">Desafio 1</a></li>
+                            <li><a href="exercicio.php?dir=funcoes&file=args_variaveis" target="_blank">Argumentos Variáveis</a></li>
+                            <li><a href="exercicio.php?dir=funcoes&file=arg_padrao" target="_blank">Argumentos Padrões</a></li>
+                            <li><a href="exercicio.php?dir=funcoes&file=usando_tipos" target="_blank">Usando Tipos</a></li>
+                            <li><a href="exercicio.php?dir=funcoes&file=anonimo" target="_blank">Funções Anônimas</a></li>
+                            <li><a href="exercicio.php?dir=funcoes&file=recursividade" target="_blank">Recursividade</a></li>
                         </ul>
                     </div>
                     <!--
