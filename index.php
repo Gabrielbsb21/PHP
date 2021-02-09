@@ -110,18 +110,17 @@
                             <li><a href="exercicio.php?dir=funcoes&file=usando_tipos" target="_blank">Usando Tipos</a></li>
                             <li><a href="exercicio.php?dir=funcoes&file=anonimo" target="_blank">Funções Anônimas</a></li>
                             <li><a href="exercicio.php?dir=funcoes&file=recursividade" target="_blank">Recursividade</a></li>
+                            <li><a href="exercicio.php?dir=funcoes&file=map_filter" target="_blank">Map & Filter</a></li>
+                        </ul>
+                    </div>
+                    
+                    <div class="modulo azul-escuro">
+                        <h3>Classes & Objetos</h3>
+                        <ul>
+                            <li><a href="exercicio.php?dir=classes_objetos&file=classe" target="_blank">Função & Escopo</a></li>
                         </ul>
                     </div>
                     <!--
-                    <div class="modulo azul-escuro">
-                        <h3>Módulo 08</h3>
-                        <ul>
-                            <li><a href="#">Exercício A</a></li>
-                            <li><a href="#">Exercício B</a></li>
-                            <li><a href="#">Exercício C</a></li>
-                        </ul>
-                    </div>
-
                     <div class="modulo roxo-escuro">
                         <h3>Módulo 09</h3>
                         <ul>
